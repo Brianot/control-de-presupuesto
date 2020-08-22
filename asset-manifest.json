@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/control-de-presupuesto/static/css/main.dc1663a9.chunk.css",
+    "main.js": "/control-de-presupuesto/static/js/main.8902ff92.chunk.js",
+    "main.js.map": "/control-de-presupuesto/static/js/main.8902ff92.chunk.js.map",
+    "runtime-main.js": "/control-de-presupuesto/static/js/runtime-main.de6261d0.js",
+    "runtime-main.js.map": "/control-de-presupuesto/static/js/runtime-main.de6261d0.js.map",
+    "static/js/2.8bd2830c.chunk.js": "/control-de-presupuesto/static/js/2.8bd2830c.chunk.js",
+    "static/js/2.8bd2830c.chunk.js.map": "/control-de-presupuesto/static/js/2.8bd2830c.chunk.js.map",
+    "index.html": "/control-de-presupuesto/index.html",
+    "precache-manifest.d85a5d35f15bdde4e05c1d4efcefe25a.js": "/control-de-presupuesto/precache-manifest.d85a5d35f15bdde4e05c1d4efcefe25a.js",
+    "service-worker.js": "/control-de-presupuesto/service-worker.js",
+    "static/css/main.dc1663a9.chunk.css.map": "/control-de-presupuesto/static/css/main.dc1663a9.chunk.css.map",
+    "static/js/2.8bd2830c.chunk.js.LICENSE.txt": "/control-de-presupuesto/static/js/2.8bd2830c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de6261d0.js",
+    "static/js/2.8bd2830c.chunk.js",
+    "static/css/main.dc1663a9.chunk.css",
+    "static/js/main.8902ff92.chunk.js"
+  ]
+}
